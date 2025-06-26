@@ -1,6 +1,6 @@
 <!-- Top Right GIF: astronaut on laptop -->
 <p align="right">
-  <img src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZuOTZ6bXNwNmRvd25lbGFucDUzOHNlbGgyZ2Ntd2Z2Z3NieHE0dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/APIyQuymmvSCp2TvS7/giphy.gif" width="150" alt="astronaut typing"/>
+  <img src="https://media.giphy.com/media/n01D1VnQI9ErCSt4nP/giphy.gif" width="130" alt="astronaut typing"/>
 </p>
 
 # 💫 About Me:
@@ -15,23 +15,27 @@ Hi there! I'm Gauriyansh Kalra — an aspiring software engineer passionate abou
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauriyanshkalra) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauriyansh) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauriyansh.write@gmail.com) 
+## 🌐 Socials & Animation:
+<table>
+<tr>
+<td>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauriyanshkalra)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauriyansh)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauriyansh.write@gmail.com)  
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/Epa9ramvNwSMy4xJZ4/giphy.gif" width="90" alt="floating astronaut"/>
+
+</td>
+</tr>
+</table>
 
 ---
-
-<!-- Middle GIF: floating space astronaut -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh1bmp6ajFzN2ozY29mZDU3ZTVmanRpbjd2MTRzMDBwODZiejJrMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Epa9ramvNwSMy4xJZ4/giphy.gif" width="50" alt="floating astronaut"/>
-</div>
-
----
-
 
 # 💻 Tech Stack:
-
 ### 👨‍💻 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -63,7 +67,6 @@ Hi there! I'm Gauriyansh Kalra — an aspiring software engineer passionate abou
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Firebase (Alt)](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -98,14 +101,6 @@ Hi there! I'm Gauriyansh Kalra — an aspiring software engineer passionate abou
 
 ### 🧰 Other Tools
 ![nVIDIA CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) 
-
-
-
----
-
-
----
-
 
 ---
 
