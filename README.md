@@ -1,6 +1,6 @@
 <!-- Top Right GIF: astronaut on laptop -->
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZuOTZ6bXNwNmRvd25lbGFucDUzOHNlbGgyZ2Ntd2Z2Z3NieHE0dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/n01D1VnQI9ErCSt4nP/giphy.gif" width="150" alt="astronaut typing"/>
+  <img src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZuOTZ6bXNwNmRvd25lbGFucDUzOHNlbGgyZ2Ntd2Z2Z3NieHE0dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/APIyQuymmvSCp2TvS7/giphy.gif" width="150" alt="astronaut typing"/>
 </p>
 
 # 💫 About Me:
@@ -24,7 +24,7 @@ Hi there! I'm Gauriyansh Kalra — an aspiring software engineer passionate abou
 
 <!-- Middle GIF: floating space astronaut -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh1bmp6ajFzN2ozY29mZDU3ZTVmanRpbjd2MTRzMDBwODZiejJrMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Epa9ramvNwSMy4xJZ4/giphy.gif" width="300" alt="floating astronaut"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh1bmp6ajFzN2ozY29mZDU3ZTVmanRpbjd2MTRzMDBwODZiejJrMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Epa9ramvNwSMy4xJZ4/giphy.gif" width="50" alt="floating astronaut"/>
 </div>
 
 ---
@@ -103,22 +103,9 @@ Hi there! I'm Gauriyansh Kalra — an aspiring software engineer passionate abou
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gauriyansh&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gauriyansh&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauriyansh&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-<!-- Star background and floating astronaut (bottom aesthetic section) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="starry background"/>
-
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="200" alt="astronaut floating"/>
-
-  <br>
-  <h3>Exploring the code universe...</h3>
-</div>
 
 ---
 
