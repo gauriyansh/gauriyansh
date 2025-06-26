@@ -24,7 +24,7 @@ Hi there! I'm Gauriyansh Kalra — an aspiring software engineer passionate abou
   <img src="https://media.giphy.com/media/Epa9ramvNwSMy4xJZ4/giphy.gif" width="80" align="right" alt="floating astronaut"/>
 </p>
 
----
+
 
 # 💻 Tech Stack:
 ### 👨‍💻 Languages
