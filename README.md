@@ -1,6 +1,6 @@
 <!-- Top Right GIF: astronaut on laptop -->
-<p align="right">
-  <img src="https://media.giphy.com/media/n01D1VnQI9ErCSt4nP/giphy.gif" width="130" alt="astronaut typing"/>
+<p align="right" width="100%">
+  <img src="https://media.giphy.com/media/APIyQuymmvSCp2TvS7/giphy.gif" width="150" alt="astronaut typing"/>
 </p>
 
 # 💫 About Me:
@@ -15,23 +15,14 @@ Hi there! I'm Gauriyansh Kalra — an aspiring software engineer passionate abou
 
 ---
 
-## 🌐 Socials & Animation:
-<table>
-<tr>
-<td>
+## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauriyanshkalra)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauriyansh)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauriyansh.write@gmail.com)  
-
-</td>
-<td>
-
-<img src="https://media.giphy.com/media/Epa9ramvNwSMy4xJZ4/giphy.gif" width="90" alt="floating astronaut"/>
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <a href="https://instagram.com/gauriyanshkalra"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gauriyansh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gauriyansh.write@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <img src="https://media.giphy.com/media/Epa9ramvNwSMy4xJZ4/giphy.gif" width="80" align="right" alt="floating astronaut"/>
+</p>
 
 ---
 
@@ -101,7 +92,6 @@ Hi there! I'm Gauriyansh Kalra — an aspiring software engineer passionate abou
 
 ### 🧰 Other Tools
 ![nVIDIA CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) 
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=gauriyansh&icon=0&color=0)](https://visitcount.itsvg.in)
