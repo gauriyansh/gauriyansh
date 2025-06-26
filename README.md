@@ -18,3 +18,18 @@ Hi there! I'm Gauriyansh Kalra — an aspiring software engineer passionate abou
 ---
 [![](https://visitcount.itsvg.in/api?id=gauriyansh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+
+<!-- Stars background -->
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="starry background"/>
+
+<!-- Floating astronaut -->
+<img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="200" alt="astronaut floating" style="margin-top: -300px;"/>
+
+<!-- Optional floating text -->
+<br>
+<h3>Exploring the code universe...</h3>
+
+</div>
+
+
